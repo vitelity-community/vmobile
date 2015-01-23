@@ -1,2 +1,2 @@
 # vmobile
-Documentation for the Vitelity VMobile Platform
+Community Maintained Documentation for the Vitelity VMobile Platform
